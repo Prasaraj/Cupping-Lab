@@ -1,0 +1,7 @@
+{
+  "name": "Coffee Cupping Data Collection And Analysis-webapp",
+  "description": "A web-based application designed to manage the entire coffee cupping lifecycle, from sample submission to farmer feedback. It provides distinct, tailored experiences for administrators, Q Graders, head judges, and farmers, ensuring a seamless and professional process.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
